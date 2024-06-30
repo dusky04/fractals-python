@@ -18,8 +18,12 @@ J.save_julia_set(fname="julia-set-1.png", cmap = "Blues") # saves the image in t
 
 <img src="./julia-sets/julia-set-1.png">
 
+## Lyapunov Fractals
+
+<img src="./lyapunov-fractals/images/lyapunov1.png" alt="julia set image" width="1000" height="1000" />
+
 ### todo:
 
-- implement lyapunov fractals
+- <strike>implement lyapunov fractals</strike>
 - faster implementation of currently existing
 - MUCH BETTER VISUALIZATIONS ofc
